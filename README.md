@@ -4,7 +4,8 @@ the school's C projects.
 
 > **Warning**
 > 
-> This template is contains my `libft` library.
+> This template contains a git subtree(see [`git-subtree(1)`](https://manpages.debian.org/testing/git-man/git-subtree.1.en.html)
+> of my `libft` library.
 > If you wish to use it for your 42 C projects, refer to [Using your own libft](#using-your-own-libft)
 
 ## Features
@@ -16,7 +17,7 @@ If you are a 42 student, you need to use your own `libft` in your C projects. To
 do so, you should:
 
 1. Clone this repository
-2. Remove the `libft` git subtree (see `git-subtree(1)`) using `git rm libft`
+2. Remove the `libft` git subtree using `git rm libft`
 3. Add your own libft to the `libft` folder at the project root
 
 If you wish to add your `libft` as a git subtree:
