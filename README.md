@@ -1,4 +1,4 @@
-# ft-cproject
+# École 42 C project template
 This is my [École 42](https://42.fr/) C project template, meant to be used for
 the school's C projects.
 
