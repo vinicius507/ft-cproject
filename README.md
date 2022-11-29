@@ -4,12 +4,12 @@ the school's C projects.
 
 > **Warning**
 > This template is contains my `libft` library.
-> If you wish to use it for your 42 C projects, refer to [Using your own libft](#libft)
+> If you wish to use it for your 42 C projects, refer to [Using your own libft](#using-your-own-libft)
 
 ## Features
 - Pre-commit norminette hook (thanks to [vcwild](https://github.com/vcwild))
 
-## [Using your own libft](libft)
+## Using your own libft
 If you are a 42 student, you need to use your own `libft` in your C projects. To
 do so, you should:
 
