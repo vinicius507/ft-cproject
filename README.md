@@ -3,6 +3,7 @@ This is my [École 42](https://42.fr/) C project template, meant to be used for
 the school's C projects.
 
 > **Warning**
+> 
 > This template is contains my `libft` library.
 > If you wish to use it for your 42 C projects, refer to [Using your own libft](#using-your-own-libft)
 
