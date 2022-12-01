@@ -1,4 +1,6 @@
 # École 42 C project template
+[![build](https://github.com/vinicius507/ft-cproject/actions/workflows/build.yaml/badge.svg)](https://github.com/vinicius507/ft-cproject/actions/workflows/build.yaml)
+
 This is my [École 42](https://42.fr/) C project template, meant to be used for
 the school's C projects.
 

@@ -1,4 +1,6 @@
 # Template de projeto em C da 42
+[![build](https://github.com/vinicius507/ft-cproject/actions/workflows/build.yaml/badge.svg)](https://github.com/vinicius507/ft-cproject/actions/workflows/build.yaml)
+
 Esse é meu template para projetos em C da [42](https://42.fr/), com objetivo de
 utilizá-lo em meus projetos.
 
