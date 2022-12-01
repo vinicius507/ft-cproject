@@ -11,6 +11,7 @@ utilizá-lo em meus projetos.
 ## Features
 - Hook da norminette usando pre-commit (graças ao [vcwild](https://github.com/vcwild))
 - Workflow de `build` usando Github actions
+- Configuração de um [Devcontainer](https://code.visualstudio.com/docs/devcontainers/containers) para desenvolvimento em um container
 
 ## Usando sua libft
 Se você é um estudante da 42, você precisa utilizar sua própria `libft` em seus projetos.

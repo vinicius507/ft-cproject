@@ -11,6 +11,7 @@ the school's C projects.
 ## Features
 - Pre-commit norminette hook (thanks to [vcwild](https://github.com/vcwild))
 - Github Workflow `build` check for CI
+- [Devcontainer](https://code.visualstudio.com/docs/devcontainers/containers) configuration for easy environment setup
 
 ## Using your own libft
 If you are a 42 student, you need to use your own `libft` in your C projects. To
